@@ -1,0 +1,4 @@
+app_name: APPNAME
+app_id: APPID
+app_secret: APPSECRET
+app_url: APPURL
